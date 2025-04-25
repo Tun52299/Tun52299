@@ -11,14 +11,15 @@
  </audio>
  
  <h2 align="center" >ℹ️ Project info</h2>
- <div>
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tanbaycu/tanbaycu?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
- <img alt="Last commit" src="https://img.shields.io/github/last-commit/tanbaycu/tanbaycu?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
- <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
- <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
- <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
- <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
- </div>
+<div>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Tun52299/Tun52299?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Tun52299/Tun52299?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+  <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Tun52299/Tun52299?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
+
  
  <h2 align="center">👨‍💻 About Me</h2>
  
@@ -32,50 +33,36 @@
  </p>
  
  
- <p align="center">
-   🎓 Web developer, AI Chatbot Dev at [tanbaycu projects]<br>
-   💡 Passionate about web development, AI, and open source<br>
-   🌱 Currently learning React, TailwindCSS, and SQLite<br>
-   🔭 Working on [Inc tanbaycu]<br>
-   📚 Always eager to learn and grow<br>
-   🎯 2025 Goals: Contribute to more open source projects
- </p>
+   🎓 Web Developer<br>
+   🖥️  See my portfolio at [Tuna Portfolio](https://tuanpham.is-a.dev/)<br>
+   ✉️  You can contact me at [tunapham.works@gmail.com](mailto:tunapham.works@gmail.com)<br>
+   🧠  I'm learning Java, React<br>
+   🤝  I'm open to collaborating on Interesting projects related to web development, especially those involving Laravel, JavaScript, and modern technologies.<br>
+   ⚡  I’m passionate about exploring and continuously learning, with a goal to advance to roles like Senior Developer or Team Lead in the future.<br>
+   🎯 2025 Goals: Contribute to more open-source projects
  
  <details>
    <summary>🌟 Fun Facts</summary>
    <br>
    <ul>
-     <li>☕ I can't start coding without a cup of Vietnamese coffee</li>
      <li>😴 I can sleep </li>
      <li>🌏 I dream of traveling the world while coding</li>
-     <li>🍜 I can eat phở for breakfast, lunch, and dinner</li>
+     <li>🍜 I always seek inspiration and development of my project</li>
    </ul>
  </details>
  
  <h2 align="center">🛠️ Tech Arsenal</h2>
  
  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
- ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
  ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
  ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
- ![SCSS](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&color=CC6699)
- ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
- ![Railway](https://img.shields.io/badge/Deployment-Railway-informational?style=flat&logo=railway&color=0B0D0E)
- ![Netlify](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
- ![Heroku](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&color=430098)
- ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
  ![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=google-cloud&color=4285F4)
- ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&color=0078D4)
- ![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
- ![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&color=0080FF)
- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
  
  
  <h2> 🐳Things that help me getting my code done</h2>
  <code><img title="VS Code" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
  <code><img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
- <code><img title="Stack Overflow" alt="Stack Overflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" /></code>
  <code><img title="Google" alt="Google" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" /></code>
  <code><img title="Udemy" alt="Udemy" width="30px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" /></code>
  <code><img title="MS Windows" alt="Microsoft Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
