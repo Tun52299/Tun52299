@@ -1,9 +1,7 @@
 <h1 align="center">
-   <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Pham+Anh+Tuan+(Tun+Raena);%F0%9F%9A%80+Back-End+Developer;%F0%9F%87%BB%F0%9F%87%B3+From+Viet+Nam" alt="Typing SVG" />
-  </a>
-</p>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Pham+Anh+Tuan+(Tun+Raena);%F0%9F%9A%80+Back-End+Developer;%F0%9F%87%BB%F0%9F%87%B3+From+Viet+Nam"             alt="Typing SVG" />
+   </a>
  </h1>
  <p align="center">
    <img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
