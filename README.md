@@ -133,24 +133,16 @@
 </p>
 
 </br>
-<details>
-  <summary>Recently played</summary>
-  <a href="https://open.spotify.com/user/31vjw7tqtliqwfi5zy3fvoo5jshy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vjw7tqtliqwfi5zy3fvoo5jshy&unique=true&count=50" alt="Spotify recently played">
-  </a>
-</details>
+
+
+
 
  
- 
- 
- <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=tun52299&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
- </p>
- 
- <p align="center">
-     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232BF9A1&title_bg=%233B0D0D&icon=katana.svg&icon_color=%23199D9A&title=tanbaycu&edge_flat=true"
-     alt="stat" />
- </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tun52299&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
  
  
  
