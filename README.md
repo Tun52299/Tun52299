@@ -64,29 +64,23 @@
  <code><img title="VS Code" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
  <code><img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
  <code><img title="Google" alt="Google" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" /></code>
- <code><img title="Udemy" alt="Udemy" width="30px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" /></code>
+ <code><img title="Udemy" alt="Udemy" width="30px" src="https://en.wikipedia.org/wiki/Udemy#/media/File:Udemy_logo.svg" /></code>
  <code><img title="MS Windows" alt="Microsoft Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  <code><img title="Spotify" alt="Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" /></code>
  <code><img title="Paint" alt="Microsoft Paint" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Paint.svg" /></code>
  <code><img title="Notepad" alt="Notepad" width="30px" src="https://en.wikipedia.org/wiki/Special:FilePath/Notepad_Win11.svg" /></code>
- <code><img title="WebStorm" alt="WebStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" /></code>
- <code><img title="Thonny" alt="Thonny" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Thonny_logo.png" /></code>
- <code><img title="XAMPP" alt="XAMPP" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/XAMPP_Logo.png" /></code>
+
  </br></br>
- <details>
- <summary>Click here for a cute surprise! :3</summary>
- <img src="https://cat-gifs.cyclic.app">
- </details>
  
  <p align="center">
-   <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,postgres,docker,git,vscode&theme=dark" alt="Tech Skills" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,laravel,vue,cpp,php,nodejs,mysql,postman,wordpress,figma,git,github,vscode&theme=dark" alt="Tech Skills" />
  </p>
  
  <details>
    <summary>📊 Skill Breakdown</summary>
    <br>
    <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbaycu&layout=compact&theme=radical" alt="Top Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tun52299&layout=compact&theme=radical" alt="Top Languages" />
    </p>
  </details>
  
@@ -95,28 +89,23 @@
  <h2 align="center">📊 GitHub Insights</h2>
  
  
- 
  <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanbaycu&theme=radical" alt="GitHub Streak" width="75%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun52299&theme=radical" alt="GitHub Profile Summary" width="75%" />
  </p>
  
  <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanbaycu&theme=radical" alt="GitHub Profile Summary" width="75%" />
- </p>
- 
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=tun52299&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" />
  </p>
  
  
  <h2 align="center">📈 Contribution Odyssey</h2>
  
  <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbaycu&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tun52299&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
  </p>
  
  <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=tanbaycu&theme=onedark&margin-w=10&no-bg=true" />
+   <img src="https://github-profile-trophy.vercel.app/?username=tun52299&theme=onedark&margin-w=10&no-bg=true" />
  </p>
  
  
@@ -126,44 +115,36 @@
  <h2 align="center">🤝 Let's Connect</h2>
  
  <p align="center">
-   <a href="mailto:tranminhtan4953@gmail.com">
+   <a href="mailto:tunapham.works@gmail.com">
      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
    </a>
-   <a href="https://tanbaycu.vercel.app">
+   <a href="https://tuanpham.is-a.dev/">
      <img src="https://img.shields.io/badge/Website-Visit%20Me-brightgreen?style=for-the-badge&logo=google-chrome" alt="Website" />
-   </a>
- </p>
- 
- <p align="center">
-   <a href="https://facebook.com/tanbaycu.kaiser">
-     <img src="https://img.shields.io/badge/Facebook-tanbaycu.kaiser-blue?style=for-the-badge&logo=facebook" />
    </a>
  </p>
  
  
  <h2 align="center">🎵 Currently Vibing To</h2>
- 
- <p align="center">
-   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&redirect=true">
-     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
-   </a>
- </p>
- 
- </br>
- <details>
-     <summary>Recently played</summary>
-     <a href="https://open.spotify.com/user/314vnz5ewlzsxlqy7r5a7yv4skdm"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314vnz5ewlzsxlqy7r5a7yv4skdm&unique=true&count=50" alt="Spotify recently played"></a>
- </details>
- 
- 
- 
- 
- 
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vjw7tqtliqwfi5zy3fvoo5jshy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vjw7tqtliqwfi5zy3fvoo5jshy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
+  </a>
+</p>
+
+</br>
+<details>
+  <summary>Recently played</summary>
+  <a href="https://open.spotify.com/user/31vjw7tqtliqwfi5zy3fvoo5jshy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vjw7tqtliqwfi5zy3fvoo5jshy&unique=true&count=50" alt="Spotify recently played">
+  </a>
+</details>
+
  
  
  
  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=tanbaycu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=tun52299&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
  </p>
  
  <p align="center">
